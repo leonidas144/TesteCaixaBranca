@@ -1,5 +1,7 @@
 # Teste Caixa Branca
 
+Os erros localizados no código abaixo são referentes a legibilidade, estruturação e segurança.
+
 ![Capturar](https://github.com/leonidas144/TesteCaixaBranca/assets/91976743/5eea49c3-56f4-4838-95ed-7c79903c00e3)
 
 <h3>Legibilidade</h3>
