@@ -39,7 +39,9 @@ Caminho 2: 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21, 22<br>
 Caminho 3: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21, 22<br>
 Caminho 4: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 20, 21, 22
 
-<h3>Código documentado</h3>
+<h3>Documentação</h3>
 
-![Capturar](https://github.com/leonidas144/TesteCaixaBranca/assets/91976743/af01f982-ec5c-4650-b079-eedfc6dd6fb7)
+![Capturar](https://github.com/leonidas144/TesteCaixaBranca/assets/91976743/74da6750-9b16-4999-8c51-a813cabe09cb)
+
+O código acima foi devidamente documentado utilizando comentários de documentação Javadoc para descrever a classe e metodos, foi utilizado tag Javadoc como, @return, e comentários inline para esclarecer algumas partes do código. Foram localizados alguns erros, os quais foram identificados na documentação.
 
